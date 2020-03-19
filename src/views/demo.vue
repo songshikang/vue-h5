@@ -5,14 +5,14 @@
 export default {
     data () {
         return {
-            
+
         }
     },
     mounted () {
-        console.log('6666')
+        console.log('66661111')
     },
     methods: {
-        
+
     }
 }
 </script>
